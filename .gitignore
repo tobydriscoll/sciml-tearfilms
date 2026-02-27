@@ -1,1 +1,33 @@
-trials_many_alldata_new_eqution2.h5
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VS Code settings
+.vscode/
+
+# Data files
+*.h5
+*.hdf5
+*.npz
+*.npy
+
+# Model files
+*.pt
+*.pth
+*.keras
+
+# Logs
+*.log
+
+# Output folders
+outputs/
+checkpoints/
+runs/
